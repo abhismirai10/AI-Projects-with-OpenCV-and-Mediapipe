@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+numpy
+matplotlib
+turtle
+face_recognition
